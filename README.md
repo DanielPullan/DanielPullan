@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an IT Technician / Head of Linux 🐧, originally from London (later Dorset) currently based in Newcastle-Under-Lyme.
+I'm an computer man who sometimes computers for a living 🐧, originally from London (later Dorset) currently based in Crewe.
 
 - 🔭 I’m currently working on: Using your Heart Rate for fun projects (Python and ANT+)
 - 🌱 I’m currently learning: Deploying applications at scale.
