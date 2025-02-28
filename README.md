@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-I'm an computer man who computers for a living 🐧
-
-📫 You can contact me by... Email! contact (at) 3264 (dot) uk
+I like to create projects, forget about them for 6 months and then come back to them.
